@@ -1,0 +1,9 @@
+.color-grad{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(201,72,56,1) 35%, rgba(247,247,247,1) 100%);
+}
+
+.color-grad-2{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(56,132,201,1) 35%, rgba(247,247,247,1) 100%);
+}
